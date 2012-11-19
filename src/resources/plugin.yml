@@ -1,0 +1,8 @@
+author: %auteur%
+database: true
+description: "Plugin %plugName%"
+generator: Boozaa Bukkit Generator
+main: %pack%.%plugName%
+name: %plugName%
+startup: %startup%
+version: '%version%'
